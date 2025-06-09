@@ -30,10 +30,15 @@ Server Box 🧵 NL
 PRE-ALPHA v0.0.1
 
 🆕 Ajout de l’interface principale
+
 👤 Ajout de la gestion des joueurs
+
 🗂️ Ajout de la gestion du serveur
+
 🧱 Ajout de la gestion des terrains
+
 🌐 Ajout de la gestion des props
+
 🛠️ Ajout du module de la gestion des métiers
 
 
