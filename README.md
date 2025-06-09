@@ -44,6 +44,10 @@ PRE-ALPHA v0.0.1
 
 ---
 
+> 🔌 Utilisation :
+
+`/server dans le chat et c'est fini !`
+
 ⚠️ Licence :
 
 🚫 Il est strictement interdit de :
