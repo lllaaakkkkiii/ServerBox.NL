@@ -1,7 +1,7 @@
 Server Box 🧵 NL
 
 > Server Box est un plugin Nova Life tout-en-un permettant de gérer l'ensemble de votre serveur.
-🧰 Simple, puissant et essentiel pour une administration sans effort.
+🧰 Simple, puissant et essentiel, tout votre serveur dans un seul plugin.
 
 
 ---
