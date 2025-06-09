@@ -9,11 +9,17 @@ Server Box 🧵 NL
 > 🛠️ Fonctionnalités :
 
 ✅ Interface simple et épurée
+
 👥 Gestion des joueurs
+
 🖥️ Gestion du serveur
+
 🪑 Gestion des props
+
 🌍 Gestion des terrains
+
 🧑‍💼 Gestion des métiers
+
 ➕ Et bien plus encore à venir...
 
 
