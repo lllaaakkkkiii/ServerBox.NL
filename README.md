@@ -70,4 +70,4 @@ PRE-ALPHA v0.0.1
 
 Vous êtes simplement autorisé à utiliser le plugin dans votre serveur.
 
-Tout signalement, bugs, suggestions est le bienvenue dans ce post.
+Tout signalement, bugs, suggestions est le bienvenue.
